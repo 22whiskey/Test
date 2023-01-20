@@ -14,8 +14,8 @@ console.log("krador1");
 console.log("krador1");
 console.log("krador1");
 
-console.log("krador2");
-console.log("krador2");
-console.log("krador2");
-console.log("krador2");
-console.log("krador2");
+console.log("krador3");
+console.log("krador3");
+console.log("krador3");
+console.log("krador3");
+console.log("krador3");
